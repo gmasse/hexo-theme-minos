@@ -67,3 +67,7 @@ navbar_links:
 # Links at the bottom of the page.
 footer_links:
   GitHub: https://github.com/ppoffice/hexo-theme-minos
+
+# License text at the bottom of the page (html code is allowed)
+# Default is: (c) YYYY Author
+license: Licensed to the public under the CC-BY-SA-4.0 License.
